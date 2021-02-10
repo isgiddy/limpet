@@ -1,0 +1,37 @@
+title : "Meet the limpets"
+content: |
+style: "style3 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Anton Fortuin"
+    content : "Discover the life that lives between the oceans and land. See how many animals and plants you can find."
+    image: "images/gallery/fulls/01.jpg"
+    thumb: "images/gallery/thumbs/01.jpg"
+    style : "style2 major"
+
+  # feature item loop
+  - name : "Maya Pfaff"
+    content : "Repeat photograpy keeps a visual record of change."
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Thomas Mtsontsi"
+    content : "Get involved, count and measure keys species found on the rocky shore like limpets and barnacles."
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Isabelle Giddy"
+    content : "How much litter is there? And what type of litter is it mostly? Add to this ongoing database."
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Souad Abrahams"
+    content : "Analyse and visualise the data you and we all collect to understand better the natural world."
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Monalisa Mabandla"
+    content : "Analyse and visualise the data you and we all collect to understand better the natural world."
+    style : "solid style2 major"
+
+    

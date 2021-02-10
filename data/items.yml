@@ -1,0 +1,33 @@
+title : "Activities"
+content: |
+  Fun, Interactive Fieldtrips
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Explore"
+    content : "Discover the 
+    life that lives between the oceans and land. See how many animals and plants you can find."
+    style : "style2 major fa-anchor"
+    button : 
+      link : "https://www.instagram.com/LIMPET_SA/"
+
+  # feature item loop
+  - name : "Photographic survey"
+    content : "Repeat photograpy keeps a visual record of change."
+    style : "solid style2 major fa-camera-retro"
+
+  # feature item loop
+  - name : "Quadrat study"
+    content : "Get involved, count and measure keys species found on the rocky shore like limpets and barnacles."
+    style : "solid style2 major fa-cube"
+    
+  # feature item loop
+  - name : "Dirty Dozen"
+    content : "How much litter is there? And what type of litter is it mostly? Add to this ongoing database."
+    style : "solid style2 major fa-recycle"
+    
+  # feature item loop
+  - name : "Data"
+    content : "Analyse and visualise the data you and we all collect to understand better the natural world."
+    style : "solid style2 major fa-database"
+    

@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style4 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Contact us"
+content: |
+  If you are interested or want to get involved please get in touch.  
+  <br />Email us: team@limpet.co.za
+  <br />Phone: 021 762 1622
+image: "images/group.jpg"

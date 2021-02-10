@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color6"
+id: "first"
+title : "Monitor the Rocky Shores"
+content: |
+  The health of the marine environment is reflected in its biodiversity. By continuously and frequently monitoring life on the rocky shores, we can follow short and long-term changes - equipping us with the information needed for fast-reaction interventions (such as after an oil spill/ noodle spill), and improve the management of the coastline
+#button: 
+#  label: "Learn More"
+#  link: "#"
+image: "images/quadrat.jpg"

@@ -1,0 +1,18 @@
+<!-- Items_team -->
+<section class="wrapper style1 align-center">
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .picture }}{{ . }}{{ end }}
+        <div class="gallery {{ .style }}">
+            {{ range .pictures }}
+                {{ partial "picture" . }}
+            {{ end }}
+        </div>
+        <div class="items {{ .style }}">
+            {{ range .items }}
+                {{ partial "item" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>

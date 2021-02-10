@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "limpet-sa"
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A youth citizen science monitoring programme"
+  logo = "images/limpet-logo.png"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/caressofsteel/"
+  facebook = "https://www.facebook.com/limpetsa"
+  email = "team@limpet.co.za"
+  instagram = "https://www.instagram.com/LIMPET_SA/"
+  linkedin = "https://linkedin.com"
+  telegram = "https://telegram.org"

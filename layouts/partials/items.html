@@ -1,0 +1,14 @@
+<!-- Items -->
+<section class="wrapper style1 align-center">
+    <div class="inner">
+        {{ with .button }}<ul>class="actions stacked">
+            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ . }}</a></li></ul>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <div class="items {{ .style }}">
+            {{ range .items }}
+                {{ partial "item" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+

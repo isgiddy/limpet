@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Limpet"
+subtitle: |
+  Long Term Monitoring through Participation, Evaluation and Training  
+content : |
+button:
+  label : "Step onto the rocky shore"
+  link : "#first"
+image : "images/banner.jpg"
+
